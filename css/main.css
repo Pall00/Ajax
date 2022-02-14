@@ -1,0 +1,97 @@
+
+
+#otsikko{
+    text-align: center;
+    font-size: 40px;
+}
+
+#sum{
+    width: 100%;
+    font-size: 18px;
+}
+
+#site{
+    max-width: 100%;
+    text-align:left;
+    font-size: 16px ;
+}
+
+
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #8fd9f8;
+}
+
+.container {
+    width: 70rem;
+    margin: auto;
+}
+
+header {
+    background-color: #3895c2;
+    padding: 1rem;
+    color: #fff;
+}
+
+#genre{
+    font-size: 24px;
+}
+
+main {
+    background-color: #66bfec;
+    padding: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+article {
+    width: 40%;
+    padding: 1rem;
+    box-sizing: border-box;
+    background-color: #8fd9f8;
+
+}
+
+
+
+article header {
+    background-color: #3895c2;
+    padding: 0 0 0 0;
+    color: #000;
+}
+
+#nimi {
+    font-size: 40px;
+    margin: 0;
+    text-align: center;
+
+}
+
+figure {
+    margin: 0;
+    text-align: center;
+}
+
+figure img {
+    width: 100%;
+}
+
+
+
+footer {
+    background-color: #3ea9dd;
+    text-align: center;
+    padding: 1rem;
+}
+
+
+
+
+
+
+
+
+
